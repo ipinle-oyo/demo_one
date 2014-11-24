@@ -16,7 +16,6 @@
 
 /*@import "compass";*/
 /*@import "font-awesome";*/
-// @import "font-awesome";
 
 /*//Partials
 //---------------------------
@@ -24,4 +23,4 @@
 
 //Vendor
 //---------------------------
-@import "vendor/base";
+/*@import "vendor/base";*/
