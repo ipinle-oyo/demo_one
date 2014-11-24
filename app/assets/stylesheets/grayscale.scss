@@ -178,6 +178,14 @@ a:focus {
     }
 }
 
+@media(max-width:500px) {
+    .intro {
+        height: 100%;
+        padding: 0;    
+        background-position: -750px 0px;
+
+    }
+}
 
 .btn-circle {
     width: 70px;
